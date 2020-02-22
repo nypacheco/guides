@@ -217,6 +217,7 @@ JavaScript
 HTML
 ----
 
+* Use the [W3C's Markup Validation Service][html-validator] to validate HTML
 * Use lowercase text for elements and attributes
 * Use double quotes to wrap element attributes
 * Use closing tags for all [normal elements][normal-elements]
@@ -242,6 +243,7 @@ HTML
 * Ensure heading elements are used to section content, and heading levels are 
   not skipped
 
+[html-validator]: https://validator.w3.org/
 [excessive-dom-size]: https://developers.google.com/web/tools/lighthouse/audits/dom-size
 [normal-elements]: https://html.spec.whatwg.org/multipage/syntax.html#normal-elements
 
