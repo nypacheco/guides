@@ -23,7 +23,16 @@ decisions made for other layers.
 
 ### UI
 
+#### Web
+
 * Use server-rendered HTML when possible as a UI layer.
+
+### Android (Native)
+
+* Use Kotlin for writing native app code.
+* Use Gradle with Android Studio for building.
+* Use MVVM to model views.
+* Prefer WorkManager for managing background tasks.
 
 ### API
 
